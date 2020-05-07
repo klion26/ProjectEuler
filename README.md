@@ -1,2 +1,2 @@
 # ProjectEuler
-Solutions of ProjectEuler with Scala Language
+Solutions of ProjectEuler
